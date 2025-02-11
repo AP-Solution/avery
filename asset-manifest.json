@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/avery/static/css/main.be3d161b.css",
-    "main.js": "/avery/static/js/main.f93b5d0c.js",
+    "main.css": "/avery/static/css/main.8280f912.css",
+    "main.js": "/avery/static/js/main.e0273e88.js",
     "static/media/slick.svg": "/avery/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/avery/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/avery/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/avery/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/avery/index.html",
-    "main.be3d161b.css.map": "/avery/static/css/main.be3d161b.css.map",
-    "main.f93b5d0c.js.map": "/avery/static/js/main.f93b5d0c.js.map"
+    "main.8280f912.css.map": "/avery/static/css/main.8280f912.css.map",
+    "main.e0273e88.js.map": "/avery/static/js/main.e0273e88.js.map"
   },
   "entrypoints": [
-    "static/css/main.be3d161b.css",
-    "static/js/main.f93b5d0c.js"
+    "static/css/main.8280f912.css",
+    "static/js/main.e0273e88.js"
   ]
 }
